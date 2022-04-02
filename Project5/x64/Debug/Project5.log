@@ -1,0 +1,5 @@
+﻿  test2.cpp
+D:\2021code\Project5\Project5\test2.cpp(7,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\2021code\Project5\Project5\test2.cpp(7,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\2021code\Project5\Project5\test2.cpp(7,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  Project5.vcxproj -> D:\2021code\Project5\x64\Debug\Project5.exe
